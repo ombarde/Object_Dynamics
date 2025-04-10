@@ -1,8 +1,7 @@
 
 # 🎥 Video Object Detection & Spatio-Temporal Clustering
 
-This project demonstrates object detection and motion-based frame clustering from a video using multiple machine learning and computer vision algorithms. It was developed as part of an academic assignment at [Your College Name].
-
+This project demonstrates object detection and motion-based frame clustering from a video using multiple machine learning and computer vision algorithms.
 ## 📌 Overview
 
 The system performs the following tasks:
